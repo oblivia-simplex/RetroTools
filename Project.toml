@@ -1,0 +1,7 @@
+name = "RetroTools"
+uuid = "e9a17cc5-751a-4ff7-9d69-c60614decb08"
+authors = ["lucca <lucca.fraser@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
